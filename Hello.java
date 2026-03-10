@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("304086458 - This line was added by Sean Sotto.");
 		System.out.println("303792840 - This line was added by Edison Duong.");
 		System.out.println("304946538 - This line was added by Lauren Oliaei.");
+		System.out.println("304396651 - This line was added by Aritha Munasinghe.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
